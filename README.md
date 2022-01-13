@@ -9,6 +9,7 @@ Get subs from an uptobox link:
 - A new button should appear to get subs. If the button does not appear, refresh the page.
 
 To know:
+- Optimized for French videos...
 - If a video contains multi subs, only the 1st subtitle will be downloaded.
 
 
