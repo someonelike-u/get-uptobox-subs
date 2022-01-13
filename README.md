@@ -1,6 +1,6 @@
 # get-uptobox-subs
 
-***If the uptobox link has no uptostream link, it does not work!***
+***If the uptobox link has no uptostream link or the video is hardsubbed, it does not work!***
 
 Get subs from an uptobox link:
 
